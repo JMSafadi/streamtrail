@@ -1,0 +1,19 @@
+{
+  "name": "movies-api-rest",
+  "version": "1.0.0",
+  "description": "Practica de consumo de API REST con Javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMSafadi/movies-api-rest.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JMSafadi/movies-api-rest/issues"
+  },
+  "homepage": "https://github.com/JMSafadi/movies-api-rest#readme"
+}
