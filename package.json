@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JMSafadi/movies-api-rest/issues"
   },
-  "homepage": "https://github.com/JMSafadi/movies-api-rest#readme"
+  "homepage": "https://github.com/JMSafadi/movies-api-rest#readme",
+  "dependencies": {
+    "axios": "^1.2.0"
+  }
 }
