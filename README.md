@@ -1,2 +1,2 @@
 # movies-api-rest
-Practica de consumo de API REST con Javascript
+Aplicacion de peliculas/series consumiendo la API REST de TheMovieDB, y utilizando Ant Desing para los estilos.
