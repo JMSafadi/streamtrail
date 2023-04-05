@@ -1,4 +1,4 @@
 [![streamtrail.png](https://i.postimg.cc/BvGRFHNG/streamtrail.png)](https://postimg.cc/NKpNqyWN)
 
 # StramTrail
-Aplicacion de peliculas/series consumiendo la API REST de TheMovieDB, y utilizando Ant Desing para los estilos.
+Movies and series platform built with React. Information is provided by TheMovieDB API and I used Ant Desing for styles.
